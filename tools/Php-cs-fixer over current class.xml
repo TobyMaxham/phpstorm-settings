@@ -1,0 +1,9 @@
+<toolSet name="Php-cs-fixer over current class">
+  <tool name="Php-cs-fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\PHP\7.1.9\php7.1.exe" />
+      <option name="PARAMETERS" value="-c &quot;C:\Program Files\PHP\7.1.9\php.ini-csfix&quot; C:\Users\tmaxham\code\etc\PHP-CS-Fixer\php-cs-fixer --verbose fix &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

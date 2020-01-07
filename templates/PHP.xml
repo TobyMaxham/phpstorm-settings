@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="todo" value="//TODO-$USER$: " description="Erstellt ein Todo Kommentar" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="test" value="/** @test **/&#10;public function $NAME$()&#10;{&#10;&#10;}" description="create new test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

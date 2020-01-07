@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="testcase" value="&#10;use Illuminate\Foundation\Testing\WithoutMiddleware;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;use Illuminate\Foundation\Testing\DatabaseTransactions;&#10; use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class ExampleTest extends TestCase&#10;{&#10;&#10;}" description="Add a new Testcase" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

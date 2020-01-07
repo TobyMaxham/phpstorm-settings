@@ -1,0 +1,25 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="IBM Plex Mono" />
+    <option name="LINE_SPACING" value="1.6" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" pattern="\btodo-tmaxham\b.*" />
+    <pattern icon="important" pattern="\btodo-tobias.maxham\b.*" />
+    <filter name="tmaxham">
+      <pattern index="3" />
+      <pattern index="2" />
+    </filter>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="3" />
+  </component>
+</application>

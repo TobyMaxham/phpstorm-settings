@@ -1,0 +1,26 @@
+{
+    "name": "tobymaxham/project",
+    "description": "",
+    "keywords": ["tobymaxham", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TobyMaxham",
+            "email": "git2016@maxham.de"
+        }
+    ],
+    "homepage": "http://maxham.de",
+    "support": {
+        "issues": "https://github.com/TobyMaxham/project/issues",
+        "source": "https://github.com/TobyMaxham/project"
+    },
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "TobyMaxham\\project\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
