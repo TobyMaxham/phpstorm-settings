@@ -6,9 +6,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="FindPrevious" />
+  <action id="GotoFile" />
   <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="SwitchApply">
