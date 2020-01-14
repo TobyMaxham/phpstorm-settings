@@ -36,6 +36,7 @@
       <mapping pattern="2018-01" type="PLAIN_TEXT" />
       <mapping pattern="auth_keys_sample" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".envdasdasd" type="PLAIN_TEXT" />
       <mapping pattern=".B2" type="PLAIN_TEXT" />
       <mapping pattern="deploy_nginx" type="PLAIN_TEXT" />
       <mapping pattern="forge-jobs" type="PLAIN_TEXT" />
