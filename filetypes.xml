@@ -68,6 +68,7 @@
       <mapping pattern=".testcrypt" type="PLAIN_TEXT" />
       <mapping pattern="asas" type="PLAIN_TEXT" />
       <mapping pattern="rights/sdf" type="PLAIN_TEXT" />
+      <mapping pattern="ba15c695c9e02dbf6460dfc16aba7aca9587f5be" type="PLAIN_TEXT" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
       <mapping pattern="testcrypt" type="PLAIN_TEXT" />
       <mapping pattern="athletics" type="PLAIN_TEXT" />
