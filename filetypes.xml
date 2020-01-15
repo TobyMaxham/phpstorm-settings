@@ -23,6 +23,7 @@
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="mysql_own-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="forge-new_db" type="PLAIN_TEXT" />
+      <mapping pattern="update-p2" type="PLAIN_TEXT" />
       <mapping pattern="updateDev" type="PLAIN_TEXT" />
       <mapping pattern="forge-19-03" type="PLAIN_TEXT" />
       <mapping pattern="ll sites-enabled" type="PLAIN_TEXT" />
