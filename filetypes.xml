@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="nac" type="Bash" />
+      <mapping pattern="swimming" type="Ini" />
       <mapping ext="ps" type="JSP" />
       <mapping pattern="yutta" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
