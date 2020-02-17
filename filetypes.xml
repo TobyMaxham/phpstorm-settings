@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="nac" type="Bash" />
       <mapping pattern="swimming" type="Ini" />
       <mapping ext="ps" type="JSP" />
       <mapping pattern="yutta" type="PHP" />
@@ -104,6 +103,7 @@
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping pattern="abfrage" type="SQL" />
+      <mapping pattern="nac" type="Bash" />
     </extensionMap>
   </component>
 </application>
