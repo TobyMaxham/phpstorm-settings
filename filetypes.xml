@@ -96,6 +96,7 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pgp" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="kslog" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
