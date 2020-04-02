@@ -32,6 +32,7 @@
       <mapping pattern="back" type="PLAIN_TEXT" />
       <mapping pattern="compile-css" type="PLAIN_TEXT" />
       <mapping pattern="sdasd" type="PLAIN_TEXT" />
+      <mapping pattern="mvSgfServer" type="PLAIN_TEXT" />
       <mapping pattern=".env-none.old" type="PLAIN_TEXT" />
       <mapping pattern="npm/dev" type="PLAIN_TEXT" />
       <mapping pattern="Neuanforderungen" type="PLAIN_TEXT" />
@@ -74,6 +75,7 @@
       <mapping pattern="ba15c695c9e02dbf6460dfc16aba7aca9587f5be" type="PLAIN_TEXT" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
       <mapping pattern="testcrypt" type="PLAIN_TEXT" />
+      <mapping pattern="startJavaServer" type="PLAIN_TEXT" />
       <mapping pattern="athletics" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="artisaninterface" type="PLAIN_TEXT" />
