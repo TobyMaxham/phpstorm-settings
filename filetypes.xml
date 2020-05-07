@@ -40,6 +40,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".envdasdasd" type="PLAIN_TEXT" />
       <mapping pattern=".B2" type="PLAIN_TEXT" />
+      <mapping pattern="rights/sdf" type="PLAIN_TEXT" />
       <mapping pattern="deploy_nginx" type="PLAIN_TEXT" />
       <mapping pattern="forge-jobs" type="PLAIN_TEXT" />
       <mapping pattern="plain" type="PLAIN_TEXT" />
@@ -69,7 +70,6 @@
       <mapping pattern="E" type="PLAIN_TEXT" />
       <mapping pattern=".testcrypt" type="PLAIN_TEXT" />
       <mapping pattern="asas" type="PLAIN_TEXT" />
-      <mapping pattern="rights/sdf" type="PLAIN_TEXT" />
       <mapping pattern="ba15c695c9e02dbf6460dfc16aba7aca9587f5be" type="PLAIN_TEXT" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
       <mapping pattern="testcrypt" type="PLAIN_TEXT" />
@@ -93,7 +93,6 @@
       <mapping ext="1-dockerfile" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ged" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="6-dockerfile" type="PLAIN_TEXT" />
@@ -105,6 +104,7 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="letsencrypt" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping pattern="abfrage" type="SQL" />
