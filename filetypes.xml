@@ -22,6 +22,7 @@
       <mapping pattern="c1" type="PLAIN_TEXT" />
       <mapping pattern="vlwtestsystem" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
+      <mapping pattern="mysql_own-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="forge-new_db" type="PLAIN_TEXT" />
       <mapping pattern="update-p2" type="PLAIN_TEXT" />
       <mapping pattern="updateDev" type="PLAIN_TEXT" />
@@ -44,7 +45,6 @@
       <mapping pattern="forge-jobs" type="PLAIN_TEXT" />
       <mapping pattern="plain" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="mysql_own-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="pup" type="PLAIN_TEXT" />
       <mapping pattern="azure" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
